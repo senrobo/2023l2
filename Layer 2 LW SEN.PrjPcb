@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Layer 2 LW SEN
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=17FA1614-9A7B-4B05-AA14-3DDAD3FCE234
 VaultGUID=51D89097-7AB1-4B75-8429-E6C32E565AD4
@@ -250,7 +250,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Layer 2 LW SEN
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
